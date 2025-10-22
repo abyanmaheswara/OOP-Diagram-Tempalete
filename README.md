@@ -1,33 +1,33 @@
 # OOP-Diagram-Template
 
-This project is a template for Object-Oriented Programming (OOP) diagrams, implemented in Kotlin.
+Proyek ini adalah template untuk diagram Object-Oriented Programming (OOP), diimplementasikan dalam Kotlin.
 
-## Getting Started
+## Memulai
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+Instruksi ini akan membantu Anda mendapatkan salinan proyek yang berjalan di mesin lokal Anda untuk tujuan pengembangan dan pengujian.
 
-### Prerequisites
+### Prasyarat
 
-What things you need to install the software and how to install them:
+Hal-hal yang perlu Anda instal untuk perangkat lunak dan cara menginstalnya:
 
-*   Java Development Kit (JDK) 11 or higher
-*   Gradle (usually bundled with the project)
+*   Java Development Kit (JDK) 11 atau lebih tinggi
+*   Gradle (biasanya dibundel dengan proyek)
 
-### Building and Running
+### Membangun dan Menjalankan
 
-To build the project, navigate to the root directory of the project and run:
+Untuk membangun proyek, navigasikan ke direktori root proyek dan jalankan:
 
 ```bash
 ./gradlew build
 ```
 
-To run the main application, use:
+Untuk menjalankan aplikasi utama, gunakan:
 
 ```bash
 ./gradlew run
 ```
 
-To run the tests, use:
+Untuk menjalankan tes, gunakan:
 
 ```bash
 ./gradlew test
