@@ -32,3 +32,38 @@ Untuk menjalankan tes, gunakan:
 ```bash
 ./gradlew test
 ```
+
+### Contoh Output
+
+Berikut adalah contoh output yang diharapkan saat menjalankan perintah di atas:
+
+#### Build
+
+```
+> Task :compileKotlin
+> Task :processResources NO-SOURCE
+> Task :classes
+> Task :jar
+> Task :assemble
+> Task :compileTestKotlin
+> Task :processTestResources NO-SOURCE
+> Task :testClasses
+> Task :test
+
+BUILD SUCCESSFUL in Xs
+```
+
+#### Run
+
+```
+> Task :run
+// Output of your application will appear here
+```
+
+#### Test
+
+```
+> Task :test
+
+BUILD SUCCESSFUL in Xs
+```
